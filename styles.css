@@ -3,6 +3,7 @@
 
 .main{
   width: 200px;
+  padding: 10px;
   background-color: purple;
   border-left-width: 5px;
   border-left-color: green;
@@ -11,8 +12,7 @@
 
 
 
-#heading{
-	padding: 10px;
+#heading{	
 	font-size: 20px;
 	color: white;
 }
